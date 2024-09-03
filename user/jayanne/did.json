@@ -1,0 +1,25 @@
+{
+  "assertionMethod": [
+    "did:web:jay-anneb.github.io%2Ftest-vc:user:jayanne#bdfdab8aabb748e7ab9e66650603adbf"
+  ],
+  "authentication": [
+    "did:web:jay-anneb.github.io%2Ftest-vc:user:jayanne#bdfdab8aabb748e7ab9e66650603adbf"
+  ],
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:web:jay-anneb.github.io%2Ftest-vc:user:jayanne",
+  "verificationMethod": [
+    {
+      "controller": "did:web:jay-anneb.github.io%2Ftest-vc:user:jayanne",
+      "id": "did:web:jay-anneb.github.io%2Ftest-vc:user:jayanne#bdfdab8aabb748e7ab9e66650603adbf",
+      "publicKeyJwk": {
+        "alg": "EdDSA",
+        "crv": "Ed25519",
+        "kid": "bdfdab8aabb748e7ab9e66650603adbf",
+        "kty": "OKP",
+        "use": "sig",
+        "x": "34SuVoQwdNuo2NkStdanljayH68JZHqGwtmrRXE9rps"
+      },
+      "type": "Ed25519VerificationKey2019"
+    }
+  ]
+}
