@@ -12,12 +12,11 @@
       "controller": "did:web:jay-anneb.github.io%2Ftest-vc:user:jayanne",
       "id": "did:web:jay-anneb.github.io%2Ftest-vc:user:jayanne#bdfdab8aabb748e7ab9e66650603adbf",
       "publicKeyJwk": {
-        "alg": "EdDSA",
-        "crv": "Ed25519",
-        "kid": "bdfdab8aabb748e7ab9e66650603adbf",
         "kty": "OKP",
-        "use": "sig",
-        "x": "GuwesG6Ai/RqMRHXy99s+56I/8zV+HCXhv+czZJGeCk="
+        "crv": "Ed25519",
+        "x": "gB8x/KuQGgSMTLeslVCRXGyhyUVBbL4QBfDLCCF6keU=",
+        "alg": "EdDSA",
+        "use": "sig"
       },
       "type": "Ed25519VerificationKey2019"
     }
