@@ -17,7 +17,7 @@
         "kid": "bdfdab8aabb748e7ab9e66650603adbf",
         "kty": "OKP",
         "use": "sig",
-        "x": "34SuVoQwdNuo2NkStdanljayH68JZHqGwtmrRXE9rps"
+        "x": "GuwesG6Ai/RqMRHXy99s+56I/8zV+HCXhv+czZJGeCk="
       },
       "type": "Ed25519VerificationKey2019"
     }
