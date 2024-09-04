@@ -14,7 +14,7 @@
       "publicKeyJwk": {
         "kty": "OKP",
         "crv": "Ed25519",
-        "x": "gB8xKuQGgSMTLeslVCRXGyhyUVBbL4QBfDLCCF6keU",
+        "x": "gB8x_KuQGgSMTLeslVCRXGyhyUVBbL4QBfDLCCF6keU",
         "alg": "EdDSA",
         "use": "sig"
       },
